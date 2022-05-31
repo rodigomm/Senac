@@ -23,6 +23,7 @@
         echo "<br/>O modulo vale ". ($n1%$n2);
         echo "<br/>A media vale $m";
 
+        
     ?>
 
 </div>
